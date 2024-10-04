@@ -18,7 +18,7 @@
   it can find associated phrases that may better convey your meaning, especially when searching for document tites
   basically SEO for your brain and document organization systems
 
-
+### Pomodoro application that counts up and always stays on your screen.
 
 Feel free to take any of these ideas, these are simply ideas that I think will be fun and/or benefit society in some way.
 
