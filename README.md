@@ -20,6 +20,8 @@
 
 ### Pomodoro application that counts up and always stays on your screen.
 
+### Metal membership cards that can scan and grant access to things
+
 Feel free to take any of these ideas, these are simply ideas that I think will be fun and/or benefit society in some way.
 
   
