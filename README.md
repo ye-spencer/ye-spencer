@@ -22,6 +22,8 @@
 
 ### Metal membership cards that can scan and grant access to things
 
+### Map of average Chipotle chicken bowl cost by country, can use API or selenium to find it
+
 Feel free to take any of these ideas, these are simply ideas that I think will be fun and/or benefit society in some way.
 
   
