@@ -24,6 +24,9 @@
 
 ### Map of average Chipotle chicken bowl cost by country, can use API or selenium to find it
 
+### Personalized Dex made for keeping up with friends
+  It can rate friendships and be more specific for friends
+
 Feel free to take any of these ideas, these are simply ideas that I think will be fun and/or benefit society in some way.
 
   
