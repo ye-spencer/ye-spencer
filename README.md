@@ -27,6 +27,10 @@
 ### Personalized Dex made for keeping up with friends
   It can rate friendships and be more specific for friends
 
+### Deep Learning Model for Tagging Players
+  AI model that produces a confidence rating for who it thinks a picture of a sports player could be, can look based on face, number, and more
+  Can also integrate a program/website that helps people easily categorize by renaming files based on who it is
+
 Feel free to take any of these ideas, these are simply ideas that I think will be fun and/or benefit society in some way.
 
   
