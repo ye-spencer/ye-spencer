@@ -37,6 +37,10 @@ Apple script seems promising
 ### Fantasy football app that can predict better than others (S)
 Based on a discrete sorting over plays, rather than time
 
+### Tidbit Reminder on Phone Widget
+ Will change position or display consistently to catch attention
+ Helps remember any lessons, mantras
+
 Feel free to take any of these ideas, these are simply ideas that I think will be fun and/or benefit society in some way.
 
   
