@@ -41,6 +41,8 @@ Based on a discrete sorting over plays, rather than time
  Will change position or display consistently to catch attention
  Helps remember any lessons, mantras
 
+### Anything that helps me practice with AWS/Cloud Computing
+
 Feel free to take any of these ideas, these are simply ideas that I think will be fun and/or benefit society in some way.
 
   
