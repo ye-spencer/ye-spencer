@@ -33,6 +33,7 @@
 
 ### Lightweight application to send and receive iMesage on desktop (S)
 Apple script seems promising
+On top, connect other popular messaging apps like Instagram, Messenger, WeChat, etc.
 
 ### Fantasy football app that can predict better than others (S)
 Based on a discrete sorting over plays, rather than time
