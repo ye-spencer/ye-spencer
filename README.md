@@ -12,9 +12,9 @@
 
 ### Transloc Addition to Route Finding (Google Maps API)
 
-### OpenCV that can track human action, and have them perform some stream of action that acts as a password (S)
+### OpenCV that can track human action, and have them perform some stream of action that acts as a password (S, R)
 
-### AI that learns how you think, and can predict what you mean when you type something (S)
+### AI that learns how you think, and can predict what you mean when you type something (S, R)
   it can find associated phrases that may better convey your meaning, especially when searching for document tites
   basically SEO for your brain and document organization systems
 
@@ -27,7 +27,7 @@
 ### Personalized Dex made for keeping up with friends
   It can rate friendships and be more specific for friends
 
-### Deep Learning Model for Tagging Players (S)
+### Deep Learning Model for Tagging Players (S, R)
   AI model that produces a confidence rating for who it thinks a picture of a sports player could be, can look based on face, number, and more
   Can also integrate a program/website that helps people easily categorize by renaming files based on who it is
 
@@ -35,7 +35,7 @@
 Apple script seems promising
 On top, connect other popular messaging apps like Instagram, Messenger, WeChat, etc.
 
-### Fantasy football app that can predict better than others (S)
+### Fantasy football app that can predict better than others (S, R)
 Based on a discrete sorting over plays, rather than time
 
 ### Tidbit Reminder on Phone Widget
