@@ -27,10 +27,6 @@
 ### Personalized Dex made for keeping up with friends
   It can rate friendships and be more specific for friends
 
-### Deep Learning Model for Tagging Players (S, R)
-  AI model that produces a confidence rating for who it thinks a picture of a sports player could be, can look based on face, number, and more
-  Can also integrate a program/website that helps people easily categorize by renaming files based on who it is
-
 ### Lightweight application to send and receive iMesage on desktop (S)
 Apple script seems promising
 On top, connect other popular messaging apps like Instagram, Messenger, WeChat, etc.
@@ -43,12 +39,6 @@ Based on a discrete sorting over plays, rather than time
  Helps remember any lessons, mantras
 
 ### Anything that helps me practice with AWS/Cloud Computing
-
-### 2-Min Vlog for Friends
- Very good UI for super ease
- Build on top of the desire for realness, especially for close friends, that Strava and BeReal built on
- Everyday just share a video talking about everything with close friends
- Possibly have groups, integrate with messages
 
 ### Extension for finding cheaper items
  Or quicker delivery, or for a certain quantity
