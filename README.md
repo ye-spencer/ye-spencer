@@ -44,6 +44,15 @@ Based on a discrete sorting over plays, rather than time
 
 ### Anything that helps me practice with AWS/Cloud Computing
 
+### 2-Min Vlog for Friends
+ Very good UI for super ease
+ Build on top of the desire for realness, especially for close friends, that Strava and BeReal built on
+ Everyday just share a video talking about everything with close friends
+ Possibly have groups, integrate with messages
+
+### Extension for finding cheaper items
+ Or quicker delivery, or for a certain quantity
+
 Feel free to take any of these ideas, these are simply ideas that I think will be fun and/or benefit society in some way.
 
   
