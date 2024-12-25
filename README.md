@@ -43,6 +43,9 @@ Based on a discrete sorting over plays, rather than time
 ### Extension for finding cheaper items
  Or quicker delivery, or for a certain quantity
 
+### Application that combines all of the course evaluations that is put together of Hopkins Course Evaluations
+ Possibily put together in a more understandable and interpretable way
+
 Feel free to take any of these ideas, these are simply ideas that I think will be fun and/or benefit society in some way.
 
   
