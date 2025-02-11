@@ -46,6 +46,9 @@ Based on a discrete sorting over plays, rather than time
 ### Application that combines all of the course evaluations that is put together of Hopkins Course Evaluations
  Possibily put together in a more understandable and interpretable way
 
+### RL Lego Robot
+lego robot that is built with reinfocement learning so that it slowly learns to nagivate a path
+
 Feel free to take any of these ideas, these are simply ideas that I think will be fun and/or benefit society in some way.
 
   
