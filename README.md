@@ -49,6 +49,12 @@ Based on a discrete sorting over plays, rather than time
 ### RL Lego Robot
 lego robot that is built with reinfocement learning so that it slowly learns to nagivate a path
 
+### Any Specialize AI
+Prediction within NASA datasets, solving SAT, something that can beat ChatGPT bc its special
+
+### Random Spaced Repetition
+Application for remembering random things, by showing you it randomly
+
 Feel free to take any of these ideas, these are simply ideas that I think will be fun and/or benefit society in some way.
 
   
