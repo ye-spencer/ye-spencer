@@ -55,6 +55,9 @@ Prediction within NASA datasets, solving SAT, something that can beat ChatGPT bc
 ### Random Spaced Repetition
 Application for remembering random things, by showing you it randomly
 
+### 4x100m Relay Predictor
+Simple regression model that predicts a 4x100m relay time based on various inputs
+
 Feel free to take any of these ideas, these are simply ideas that I think will be fun and/or benefit society in some way.
 
   
